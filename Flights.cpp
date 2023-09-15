@@ -1,5 +1,3 @@
-/*Flight booking system
-Anurag Mishra*/
 #include<iostream>
 #include<fstream>
 #include<iomanip>
